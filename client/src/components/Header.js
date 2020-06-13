@@ -44,7 +44,7 @@ const Header = () => (
       <StyledImage src={ElementLogo} />
       <StyledText>presents</StyledText>
     </ImageContainer>
-    <StyledHeader>MAY CHALLENGE</StyledHeader>
+    <StyledHeader>AYM CAMP CHALLENGE</StyledHeader>
   </StyledContainer>
 );
 

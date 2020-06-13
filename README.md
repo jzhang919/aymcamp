@@ -1,4 +1,4 @@
-# May Challenge
+# AYM CAMP Challenge
 Website to track Element May Challenge
 
-Live site - https://may-challenge.herokuapp.com/
+Live site - https://helloworldjzhang919.herokuapp.com/
